@@ -8,7 +8,7 @@ initialCash: 2500
 targetAmount: 20000
 baseSalary: 600
 salaryIncrement: 100
-maxDiceRoll: 6
+maxDiceRoll: 8
 mapIcon: bg008alt
 frbFiles:
   - StarshipRedux
